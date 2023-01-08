@@ -1,0 +1,15 @@
+﻿  figure.cpp
+C:\Programming\C++\figure\figure.cpp(52): error C2259: "figure": невозможно создать экземпляр абстрактного класса
+C:\Programming\C++\figure\figure.cpp(5): message : см. объявление "figure"
+C:\Programming\C++\figure\figure.cpp(52): message : из-за следующих членов:
+C:\Programming\C++\figure\figure.cpp(52): message : double figure::area(void): абстрактный
+C:\Programming\C++\figure\figure.cpp(24): message : см. объявление "figure::area"
+C:\Programming\C++\figure\figure.cpp(52): message : double figure::lenth(void): абстрактный
+C:\Programming\C++\figure\figure.cpp(25): message : см. объявление "figure::lenth"
+C:\Programming\C++\figure\figure.cpp(52,19): error C2259: "figure": невозможно создать экземпляр абстрактного класса
+C:\Programming\C++\figure\figure.cpp(5): message : см. объявление "figure"
+C:\Programming\C++\figure\figure.cpp(52,19): message : из-за следующих членов:
+C:\Programming\C++\figure\figure.cpp(52,19): message : double figure::area(void): абстрактный
+C:\Programming\C++\figure\figure.cpp(24): message : см. объявление "figure::area"
+C:\Programming\C++\figure\figure.cpp(52,19): message : double figure::lenth(void): абстрактный
+C:\Programming\C++\figure\figure.cpp(25): message : см. объявление "figure::lenth"

@@ -1,0 +1,3 @@
+﻿  operators.cpp
+C:\Programming\C++\operators\operators.cpp(65,20): error C2440: инициализация: невозможно преобразовать "const char *" в "mString"
+C:\Programming\C++\operators\operators.cpp(65,20): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
